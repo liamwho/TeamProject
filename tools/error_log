@@ -1,0 +1,156 @@
+[27-Feb-2017 19:35:15 UTC] PHP Notice:  Undefined index: Address in /home/link192/public_html/admin/tools/db_insertClient.php on line 19
+[27-Feb-2017 19:35:15 UTC] PHP Notice:  Undefined variable: Town in /home/link192/public_html/admin/tools/db_insertClient.php on line 23
+[27-Feb-2017 19:35:15 UTC] PHP Notice:  Undefined variable: County in /home/link192/public_html/admin/tools/db_insertClient.php on line 23
+[27-Feb-2017 19:35:15 UTC] PHP Notice:  Undefined variable: Phone in /home/link192/public_html/admin/tools/db_insertClient.php on line 23
+[27-Feb-2017 19:37:13 UTC] PHP Notice:  Undefined index: Address in /home/link192/public_html/admin/tools/db_insertClient.php on line 19
+[27-Feb-2017 19:37:13 UTC] PHP Notice:  Undefined variable: Town in /home/link192/public_html/admin/tools/db_insertClient.php on line 23
+[27-Feb-2017 19:37:13 UTC] PHP Notice:  Undefined variable: County in /home/link192/public_html/admin/tools/db_insertClient.php on line 23
+[27-Feb-2017 19:37:13 UTC] PHP Notice:  Undefined variable: Phone in /home/link192/public_html/admin/tools/db_insertClient.php on line 23
+[27-Feb-2017 19:40:27 UTC] PHP Notice:  Undefined index: Address in /home/link192/public_html/admin/tools/db_insertClient.php on line 19
+[27-Feb-2017 21:00:48 UTC] PHP Notice:  Undefined index: LastName in /home/link192/public_html/admin/tools/db_insertClient.php on line 17
+[27-Feb-2017 21:00:48 UTC] PHP Notice:  Undefined index: FirstName in /home/link192/public_html/admin/tools/db_insertClient.php on line 18
+[27-Feb-2017 21:00:48 UTC] PHP Notice:  Undefined index: ContactNo in /home/link192/public_html/admin/tools/db_insertClient.php on line 19
+[27-Feb-2017 21:00:48 UTC] PHP Notice:  Undefined index: eMail in /home/link192/public_html/admin/tools/db_insertClient.php on line 20
+[27-Feb-2017 21:01:50 UTC] PHP Notice:  Undefined index: LastName in /home/link192/public_html/admin/tools/db_insertClient.php on line 17
+[27-Feb-2017 21:01:50 UTC] PHP Notice:  Undefined index: FirstName in /home/link192/public_html/admin/tools/db_insertClient.php on line 18
+[27-Feb-2017 21:01:50 UTC] PHP Notice:  Undefined index: ContactNo in /home/link192/public_html/admin/tools/db_insertClient.php on line 19
+[27-Feb-2017 21:01:50 UTC] PHP Notice:  Undefined index: eMail in /home/link192/public_html/admin/tools/db_insertClient.php on line 20
+[27-Feb-2017 21:02:48 UTC] PHP Notice:  Undefined index: LastName in /home/link192/public_html/admin/tools/db_insertClient.php on line 17
+[27-Feb-2017 21:02:48 UTC] PHP Notice:  Undefined index: FirstName in /home/link192/public_html/admin/tools/db_insertClient.php on line 18
+[27-Feb-2017 21:02:48 UTC] PHP Notice:  Undefined index: ContactNo in /home/link192/public_html/admin/tools/db_insertClient.php on line 19
+[27-Feb-2017 21:02:48 UTC] PHP Notice:  Undefined index: eMail in /home/link192/public_html/admin/tools/db_insertClient.php on line 20
+[27-Feb-2017 21:16:47 UTC] PHP Notice:  Undefined index: FirstName in /home/link192/public_html/admin/tools/db_insertClient.php on line 18
+[27-Feb-2017 21:18:40 UTC] PHP Notice:  Undefined index: FirstName in /home/link192/public_html/admin/tools/db_insertClient.php on line 18
+[27-Feb-2017 21:59:19 UTC] PHP Notice:  Undefined index: LastName in /home/link192/public_html/admin/tools/db_insertEmployee.php on line 17
+[27-Feb-2017 21:59:19 UTC] PHP Notice:  Undefined index: FirstName in /home/link192/public_html/admin/tools/db_insertEmployee.php on line 18
+[27-Feb-2017 21:59:19 UTC] PHP Notice:  Undefined index: Address in /home/link192/public_html/admin/tools/db_insertEmployee.php on line 19
+[27-Feb-2017 21:59:19 UTC] PHP Notice:  Undefined index: Town in /home/link192/public_html/admin/tools/db_insertEmployee.php on line 20
+[27-Feb-2017 21:59:19 UTC] PHP Notice:  Undefined index: County in /home/link192/public_html/admin/tools/db_insertEmployee.php on line 21
+[27-Feb-2017 21:59:19 UTC] PHP Notice:  Undefined index: Phone in /home/link192/public_html/admin/tools/db_insertEmployee.php on line 22
+[27-Feb-2017 21:59:19 UTC] PHP Notice:  Undefined index: eMail in /home/link192/public_html/admin/tools/db_insertEmployee.php on line 23
+[27-Feb-2017 22:00:15 UTC] PHP Notice:  Undefined index: LastName in /home/link192/public_html/admin/tools/db_insertEmployee.php on line 17
+[27-Feb-2017 22:00:15 UTC] PHP Notice:  Undefined index: FirstName in /home/link192/public_html/admin/tools/db_insertEmployee.php on line 18
+[27-Feb-2017 22:00:15 UTC] PHP Notice:  Undefined index: Address in /home/link192/public_html/admin/tools/db_insertEmployee.php on line 19
+[27-Feb-2017 22:00:15 UTC] PHP Notice:  Undefined index: Town in /home/link192/public_html/admin/tools/db_insertEmployee.php on line 20
+[27-Feb-2017 22:00:15 UTC] PHP Notice:  Undefined index: County in /home/link192/public_html/admin/tools/db_insertEmployee.php on line 21
+[27-Feb-2017 22:00:15 UTC] PHP Notice:  Undefined index: Phone in /home/link192/public_html/admin/tools/db_insertEmployee.php on line 22
+[27-Feb-2017 22:00:15 UTC] PHP Notice:  Undefined index: eMail in /home/link192/public_html/admin/tools/db_insertEmployee.php on line 23
+[02-Mar-2017 19:45:13 UTC] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/link192/public_html/admin/tools/del.php on line 2
+[02-Mar-2017 19:45:13 UTC] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/link192/public_html/admin/tools/del.php on line 2
+[02-Mar-2017 19:45:13 UTC] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/link192/public_html/admin/tools/del.php on line 2
+[02-Mar-2017 19:45:13 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/link192/public_html/admin/tools/del.php on line 8
+[02-Mar-2017 19:45:13 UTC] PHP Warning:  mysql_query(): Access denied for user 'link192'@'localhost' (using password: NO) in /home/link192/public_html/admin/tools/del.php on line 8
+[02-Mar-2017 19:45:13 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/link192/public_html/admin/tools/del.php on line 8
+[02-Mar-2017 19:54:24 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/link192/public_html/admin/tools/db.php on line 2
+[02-Mar-2017 19:54:55 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/link192/public_html/admin/tools/db.php on line 2
+[02-Mar-2017 19:57:48 UTC] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/link192/public_html/admin/tools/del_Client.php on line 2
+[02-Mar-2017 19:57:48 UTC] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/link192/public_html/admin/tools/del_Client.php on line 2
+[02-Mar-2017 19:57:48 UTC] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/link192/public_html/admin/tools/del_Client.php on line 2
+[02-Mar-2017 19:57:48 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/link192/public_html/admin/tools/del_Client.php on line 8
+[02-Mar-2017 19:57:48 UTC] PHP Warning:  mysql_query(): Access denied for user 'link192'@'localhost' (using password: NO) in /home/link192/public_html/admin/tools/del_Client.php on line 8
+[02-Mar-2017 19:57:48 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/link192/public_html/admin/tools/del_Client.php on line 8
+[02-Mar-2017 19:58:54 UTC] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/link192/public_html/admin/tools/del_Client.php on line 2
+[02-Mar-2017 19:58:54 UTC] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/link192/public_html/admin/tools/del_Client.php on line 2
+[02-Mar-2017 19:58:54 UTC] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/link192/public_html/admin/tools/del_Client.php on line 2
+[02-Mar-2017 19:58:54 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/link192/public_html/admin/tools/del_Client.php on line 8
+[02-Mar-2017 19:58:54 UTC] PHP Warning:  mysql_query(): Access denied for user 'link192'@'localhost' (using password: NO) in /home/link192/public_html/admin/tools/del_Client.php on line 8
+[02-Mar-2017 19:58:54 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/link192/public_html/admin/tools/del_Client.php on line 8
+[02-Mar-2017 19:59:15 UTC] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/link192/public_html/admin/tools/del_Client.php on line 2
+[02-Mar-2017 19:59:15 UTC] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/link192/public_html/admin/tools/del_Client.php on line 2
+[02-Mar-2017 19:59:15 UTC] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/link192/public_html/admin/tools/del_Client.php on line 2
+[02-Mar-2017 19:59:15 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/link192/public_html/admin/tools/del_Client.php on line 8
+[02-Mar-2017 19:59:15 UTC] PHP Warning:  mysql_query(): Access denied for user 'link192'@'localhost' (using password: NO) in /home/link192/public_html/admin/tools/del_Client.php on line 8
+[02-Mar-2017 19:59:15 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/link192/public_html/admin/tools/del_Client.php on line 8
+[02-Mar-2017 19:59:35 UTC] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/link192/public_html/admin/tools/del_Client.php on line 2
+[02-Mar-2017 19:59:35 UTC] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/link192/public_html/admin/tools/del_Client.php on line 2
+[02-Mar-2017 19:59:35 UTC] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/link192/public_html/admin/tools/del_Client.php on line 2
+[02-Mar-2017 19:59:35 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/link192/public_html/admin/tools/del_Client.php on line 8
+[02-Mar-2017 19:59:35 UTC] PHP Warning:  mysql_query(): Access denied for user 'link192'@'localhost' (using password: NO) in /home/link192/public_html/admin/tools/del_Client.php on line 8
+[02-Mar-2017 19:59:35 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/link192/public_html/admin/tools/del_Client.php on line 8
+[02-Mar-2017 20:00:09 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/link192/public_html/admin/tools/db.php on line 2
+[02-Mar-2017 20:00:14 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/link192/public_html/admin/tools/db.php on line 2
+[02-Mar-2017 20:11:01 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/link192/public_html/admin/tools/db.php on line 2
+[02-Mar-2017 20:11:13 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/link192/public_html/admin/tools/db.php on line 2
+[02-Mar-2017 20:14:42 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/link192/public_html/admin/tools/db.php on line 2
+[02-Mar-2017 21:03:40 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/link192/public_html/admin/tools/db.php on line 2
+[02-Mar-2017 21:16:32 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/link192/public_html/admin/tools/db.php on line 2
+[03-Mar-2017 09:39:23 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/link192/public_html/admin/tools/db.php on line 2
+[03-Mar-2017 09:39:36 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/link192/public_html/admin/tools/db.php on line 2
+[15-Mar-2017 11:24:57 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/link192/public_html/admin/tools/db.php on line 2
+[15-Mar-2017 11:25:49 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/link192/public_html/admin/tools/db.php on line 2
+[15-Mar-2017 11:31:12 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/link192/public_html/admin/tools/db.php on line 2
+[15-Mar-2017 11:31:18 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/link192/public_html/admin/tools/db.php on line 2
+[16-Mar-2017 16:20:11 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/link192/public_html/admin/tools/db.php on line 2
+[30-Mar-2017 23:13:39 UTC] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'link192_admin'@'localhost' to database 'link192hairsalon' in /home/link192/public_html/admin/tools/db_insertClient.php on line 11
+[30-Mar-2017 23:14:02 UTC] PHP Notice:  Undefined index: LastName in /home/link192/public_html/admin/tools/db_insertClient.php on line 17
+[30-Mar-2017 23:14:02 UTC] PHP Notice:  Undefined index: FirstName in /home/link192/public_html/admin/tools/db_insertClient.php on line 18
+[30-Mar-2017 23:14:02 UTC] PHP Notice:  Undefined index: ContactNo in /home/link192/public_html/admin/tools/db_insertClient.php on line 19
+[30-Mar-2017 23:14:02 UTC] PHP Notice:  Undefined index: eMail in /home/link192/public_html/admin/tools/db_insertClient.php on line 20
+[30-Mar-2017 23:24:48 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/link192/public_html/admin/tools/db.php on line 2
+[30-Mar-2017 23:24:48 UTC] PHP Notice:  Undefined index: ClientID in /home/link192/public_html/admin/tools/del_Client.php on line 4
+[30-Mar-2017 23:27:01 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/link192/public_html/admin/tools/db.php on line 2
+[30-Mar-2017 23:34:53 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/link192/public_html/admin/tools/db.php on line 2
+[31-Mar-2017 00:06:04 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/link192/public_html/admin/tools/db.php on line 2
+[31-Mar-2017 00:18:29 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/link192/public_html/admin/tools/db.php on line 2
+[31-Mar-2017 00:19:39 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/link192/public_html/admin/tools/db.php on line 2
+[31-Mar-2017 00:31:08 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/link192/public_html/admin/tools/db.php on line 2
+[31-Mar-2017 00:33:32 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/link192/public_html/admin/tools/db.php on line 2
+[31-Mar-2017 00:43:11 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/link192/public_html/admin/tools/db.php on line 2
+[31-Mar-2017 01:13:51 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/link192/public_html/admin/tools/db.php on line 2
+[31-Mar-2017 01:14:09 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/link192/public_html/admin/tools/db.php on line 2
+[31-Mar-2017 09:28:57 UTC] PHP Notice:  Undefined index: Address in /home/link192/public_html/admin/tools/db_insertEmployee.php on line 19
+[31-Mar-2017 09:28:57 UTC] PHP Notice:  Undefined index: Town in /home/link192/public_html/admin/tools/db_insertEmployee.php on line 20
+[31-Mar-2017 09:28:57 UTC] PHP Notice:  Undefined index: County in /home/link192/public_html/admin/tools/db_insertEmployee.php on line 21
+[31-Mar-2017 09:30:59 UTC] PHP Notice:  Undefined variable: lastName in /home/link192/public_html/admin/tools/db_insertEmployee.php on line 22
+[31-Mar-2017 09:30:59 UTC] PHP Notice:  Undefined variable: firstName in /home/link192/public_html/admin/tools/db_insertEmployee.php on line 22
+[31-Mar-2017 09:30:59 UTC] PHP Notice:  Undefined variable: phoneNo in /home/link192/public_html/admin/tools/db_insertEmployee.php on line 22
+[31-Mar-2017 09:30:59 UTC] PHP Notice:  Undefined variable: email in /home/link192/public_html/admin/tools/db_insertEmployee.php on line 22
+[31-Mar-2017 09:31:37 UTC] PHP Notice:  Undefined variable: lastName in /home/link192/public_html/admin/tools/db_insertEmployee.php on line 22
+[31-Mar-2017 09:31:37 UTC] PHP Notice:  Undefined variable: firstName in /home/link192/public_html/admin/tools/db_insertEmployee.php on line 22
+[31-Mar-2017 09:31:37 UTC] PHP Notice:  Undefined variable: phoneNo in /home/link192/public_html/admin/tools/db_insertEmployee.php on line 22
+[31-Mar-2017 09:31:37 UTC] PHP Notice:  Undefined variable: email in /home/link192/public_html/admin/tools/db_insertEmployee.php on line 22
+[31-Mar-2017 09:33:59 UTC] PHP Notice:  Undefined variable: lastName in /home/link192/public_html/admin/tools/db_insertEmployee.php on line 23
+[31-Mar-2017 09:33:59 UTC] PHP Notice:  Undefined variable: firstName in /home/link192/public_html/admin/tools/db_insertEmployee.php on line 23
+[31-Mar-2017 09:33:59 UTC] PHP Notice:  Undefined variable: phoneNo in /home/link192/public_html/admin/tools/db_insertEmployee.php on line 23
+[31-Mar-2017 09:33:59 UTC] PHP Notice:  Undefined variable: email in /home/link192/public_html/admin/tools/db_insertEmployee.php on line 23
+[31-Mar-2017 09:42:04 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/link192/public_html/admin/tools/db.php on line 2
+[31-Mar-2017 09:42:25 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/link192/public_html/admin/tools/db.php on line 2
+[31-Mar-2017 10:04:18 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/link192/public_html/admin/tools/db.php on line 2
+[13-Apr-2017 17:57:02 UTC] PHP Notice:  Undefined variable: servername in /home/link192/public_html/tools/db_insertClient.php on line 9
+[13-Apr-2017 17:57:02 UTC] PHP Notice:  Undefined variable: username in /home/link192/public_html/tools/db_insertClient.php on line 9
+[13-Apr-2017 17:57:02 UTC] PHP Notice:  Undefined variable: password in /home/link192/public_html/tools/db_insertClient.php on line 9
+[13-Apr-2017 17:57:02 UTC] PHP Notice:  Undefined variable: dbname in /home/link192/public_html/tools/db_insertClient.php on line 9
+[13-Apr-2017 17:57:03 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'link192'@'localhost' (using password: NO) in /home/link192/public_html/tools/db_insertClient.php on line 9
+[13-Apr-2017 17:58:16 UTC] PHP Notice:  Undefined variable: servername in /home/link192/public_html/tools/db_insertClient.php on line 9
+[13-Apr-2017 17:58:16 UTC] PHP Notice:  Undefined variable: username in /home/link192/public_html/tools/db_insertClient.php on line 9
+[13-Apr-2017 17:58:16 UTC] PHP Notice:  Undefined variable: password in /home/link192/public_html/tools/db_insertClient.php on line 9
+[13-Apr-2017 17:58:16 UTC] PHP Notice:  Undefined variable: dbname in /home/link192/public_html/tools/db_insertClient.php on line 9
+[13-Apr-2017 17:58:16 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'link192'@'localhost' (using password: NO) in /home/link192/public_html/tools/db_insertClient.php on line 9
+[13-Apr-2017 20:51:14 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/link192/public_html/tools/login.php on line 29
+[13-Apr-2017 20:51:31 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/link192/public_html/tools/login.php on line 29
+[13-Apr-2017 20:51:41 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/link192/public_html/tools/login.php on line 29
+[13-Apr-2017 20:51:58 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/link192/public_html/tools/login.php on line 29
+[13-Apr-2017 20:52:01 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/link192/public_html/tools/login.php on line 29
+[13-Apr-2017 20:53:30 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/link192/public_html/tools/login.php on line 29
+[13-Apr-2017 20:54:20 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/link192/public_html/tools/login.php on line 29
+[13-Apr-2017 20:54:48 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/link192/public_html/tools/login.php on line 29
+[13-Apr-2017 20:54:57 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/link192/public_html/tools/login.php on line 29
+[14-Apr-2017 00:28:23 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/link192/public_html/tools/login.php on line 29
+[14-Apr-2017 11:53:27 UTC] PHP Fatal error:  Using $this when not in object context in /home/link192/public_html/tools/logout.php on line 4
+[14-Apr-2017 11:57:30 UTC] PHP Fatal error:  Using $this when not in object context in /home/link192/public_html/tools/logout.php on line 4
+[14-Apr-2017 12:25:24 UTC] PHP Notice:  Undefined index: ContactNo in /home/link192/public_html/tools/login.php on line 21
+[14-Apr-2017 12:25:24 UTC] PHP Notice:  Undefined index: eMail in /home/link192/public_html/tools/login.php on line 22
+[20-Apr-2017 18:17:07 UTC] PHP Parse error:  syntax error, unexpected 'exit' (T_EXIT) in /home/link192/public_html/tools/db_insertClient.php on line 24
+[20-Apr-2017 18:18:30 UTC] PHP Parse error:  syntax error, unexpected 'exit' (T_EXIT) in /home/link192/public_html/tools/db_insertClient.php on line 24
+[20-Apr-2017 18:21:21 UTC] PHP Parse error:  syntax error, unexpected 'exit' (T_EXIT) in /home/link192/public_html/tools/db_insertClient.php on line 24
+[20-Apr-2017 18:21:35 UTC] PHP Parse error:  syntax error, unexpected 'exit' (T_EXIT) in /home/link192/public_html/tools/db_insertClient.php on line 24
+[20-Apr-2017 18:25:07 UTC] PHP Parse error:  syntax error, unexpected 'exit' (T_EXIT) in /home/link192/public_html/tools/db_insertClient.php on line 24
+[20-Apr-2017 18:28:00 UTC] PHP Parse error:  syntax error, unexpected 'exit' (T_EXIT) in /home/link192/public_html/tools/db_insertClient.php on line 24
+[20-Apr-2017 18:28:52 UTC] PHP Parse error:  syntax error, unexpected 'exit' (T_EXIT) in /home/link192/public_html/tools/db_insertClient.php on line 24
+[24-Apr-2017 23:52:24 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/link192/public_html/tools/db.php on line 2
+[29-Apr-2017 19:27:08 UTC] PHP Notice:  Undefined index: FirstName in /home/link192/public_html/tools/db_insertClient.php on line 17
+[29-Apr-2017 19:27:08 UTC] PHP Notice:  Undefined index: LastName in /home/link192/public_html/tools/db_insertClient.php on line 18
+[29-Apr-2017 19:27:08 UTC] PHP Notice:  Undefined index: ContactNo in /home/link192/public_html/tools/db_insertClient.php on line 19
+[29-Apr-2017 19:27:08 UTC] PHP Notice:  Undefined index: eMail in /home/link192/public_html/tools/db_insertClient.php on line 20
+[29-Apr-2017 19:27:08 UTC] PHP Notice:  Undefined index: ContactNo in /home/link192/public_html/tools/login.php on line 21
+[29-Apr-2017 19:27:08 UTC] PHP Notice:  Undefined index: eMail in /home/link192/public_html/tools/login.php on line 22
